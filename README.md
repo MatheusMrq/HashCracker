@@ -27,8 +27,8 @@ This project implements a simple word encryption system that allows users to cre
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/MatheusMrq/HashCracker.git
+    cd HashCracker
     ```
 
 2. **Install required libraries**:
@@ -38,7 +38,7 @@ This project implements a simple word encryption system that allows users to cre
 
 3. **Run the script**:
     ```bash
-    python your_script.py
+    python hashcracker
     ```
 
 4. **Choose an option**:
