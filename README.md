@@ -38,7 +38,7 @@ This project implements a simple word encryption system that allows users to cre
 
 3. **Run the script**:
     ```bash
-    python hashcracker
+    python hashcracker.py
     ```
 
 4. **Choose an option**:
