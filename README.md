@@ -1,3 +1,5 @@
+![Title](https://raw.githubusercontent.com/MatheusMrq/images-not-a-project/main/p1.png)
+
 # Word Encryption with Custom Mapping
 
 This project implements a simple word encryption system that allows users to create and decrypt words using a custom character-to-code mapping.
